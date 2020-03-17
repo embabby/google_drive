@@ -1,6 +1,18 @@
 ## Requirements
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
+
+## Packages i used
+-to install Google API Service Client Via Composer
+      -composer require google/apiclient
+      
+-to install FlySystem Adapter for Google Drive
+       -composer require nao-pon/flysystem-google-drive
+       -composer require league/flysystem-aws-s3-v3
+
+This project built using **laravel 7.0**, so your php version must be >= **7.0**
+
+
 ## Installation
 1. Clone the source code. `git clone https://github.com/embabby/google_drive.git`
 2. Go to inside the project. `cd google_drive`
