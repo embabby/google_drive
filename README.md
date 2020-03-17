@@ -14,7 +14,8 @@ This project built using **laravel 7.0**, so your php version must be >= **7.0**
       DB_PASSWORD= YOUR_PASSWORD_HERE
 ```
 7. Migrate the tables `php artisan migrate`
-8. seed the data `php artisan db:seed` and to get files from google drive
-9. Run the project! `php artisan serve`
+8. seed the data and to get the files from my google drive `php artisan db:seed` 
+9. Generate new key `php artisan key:generate`
+10. Run the project! `php artisan serve`
 
 Note: at the beginning i made a seeder to retrive the files from google drive
