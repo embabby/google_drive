@@ -4,11 +4,11 @@ This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
 ## Packages i used
 -to install Google API Service Client Via Composer
-      -composer require google/apiclient
+      `composer require google/apiclient`
       
 -to install FlySystem Adapter for Google Drive
-       -composer require nao-pon/flysystem-google-drive
-       -composer require league/flysystem-aws-s3-v3
+       `composer require nao-pon/flysystem-google-drive`
+       `composer require league/flysystem-aws-s3-v3`
 
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
