@@ -20,8 +20,11 @@ use Illuminate\Support\Facades\Storage;
 //     return 'File was saved to Google Drive';
 // });
 
-
 Route::get('/', 'FileController@index')->name('file.index');
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 Route::post('/upload', 'FileController@store')->name('file.store');
 
