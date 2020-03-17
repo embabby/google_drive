@@ -2,14 +2,6 @@
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
 
-## Packages i used
--to install Google API Service Client Via Composer
-      `composer require google/apiclient`
-      
--to install FlySystem Adapter for Google Drive
-   1. `composer require nao-pon/flysystem-google-drive`
-   2.`composer require league/flysystem-aws-s3-v3`
-
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
 
@@ -31,3 +23,13 @@ This project built using **laravel 7.0**, so your php version must be >= **7.0**
 10. Run the project! `php artisan serve`
 
 Note: at the beginning i made a seeder to retrive the files from google drive
+
+
+## Packages i used
+-to install Google API Service Client Via Composer
+      `composer require google/apiclient`
+      
+-to install FlySystem Adapter for Google Drive
+   1. `composer require nao-pon/flysystem-google-drive`
+   2.`composer require league/flysystem-aws-s3-v3`
+
