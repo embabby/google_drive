@@ -8,6 +8,7 @@ This project built using **laravel 7.0**, so your php version must be >= **7.0**
       
 -to install FlySystem Adapter for Google Drive
        `composer require nao-pon/flysystem-google-drive`
+       
        `composer require league/flysystem-aws-s3-v3`
 
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
