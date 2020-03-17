@@ -2,9 +2,6 @@
 This project built using **laravel 7.0**, so your php version must be >= **7.0**
 
 
-This project built using **laravel 7.0**, so your php version must be >= **7.0**
-
-
 ## Installation
 1. Clone the source code. `git clone https://github.com/embabby/google_drive.git`
 2. Go to inside the project. `cd google_drive`
